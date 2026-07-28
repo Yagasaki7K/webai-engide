@@ -1,0 +1,96 @@
+# Engide | Tecnologia & Inovação
+
+A Engide é uma empresa de tecnologia especializada no desenvolvimento de softwares web e mobile, automação inteligente com IA para WhatsApp e soluções seguras e escaláveis. Nosso foco é a inovação, eficiência e qualidade, criando produtos digitais robustos para transformar negócios.
+
+## Links Principais
+
+- [Site Oficial](https://www.engide.com.br/)
+- [WhatsApp](https://wa.me/5519982212021?text=Estou%20interessado%20em%20conhecer%20mais%20sobre%20os%20servi%C3%A7os%20que%20a%20Engide%20oferece.%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20ou%20esclarecer%20algumas%20d%C3%BAvidas%20relacionadas%20ao%20meu%20neg%C3%B3cio.)
+- [Carreiras](https://www.engide.com.br/carreira)
+- [Políticas de Privacidade](https://www.engide.com.br/legal)
+
+## Sobre a Empresa
+
+A Engide surgiu com o objetivo de oferecer soluções inovadoras para empresas e negócios que buscam escalabilidade, alto desempenho e uma experiência de usuário excepcional. O nome é uma fusão de ENG (Engenharia/Engenheiro) e DE (Desenvolvedor/Developer), representando a harmonia entre engenharia e desenvolvimento de software.
+
+### Nossa Equipe
+
+- **Lais Estevam** – CEO & Engenheira da Computação. Sócia-fundadora, responsável pela estrutura dos projetos e alinhamento com clientes.
+- **Anderson Marlon** – CTO & Engenheiro de Software. Sócio-fundador, Diretor de Desenvolvimento, responsável pela equipe e execução dos projetos.
+
+## Serviços Oferecidos
+
+### Soluções Web & Mobile
+Desenvolvemos aplicativos, websites e plataformas digitais inovadoras para empresas que buscam escalabilidade, alto desempenho e uma experiência do usuário excepcional.
+
+- Apps iOS & Android
+- Plataformas Web (Dashboards, Painéis Customizados)
+- UI/UX Moderno
+- Landing Pages
+- Sites para barbearia, áreas da saúde, advocacia, padaria, esporte, atléticas e mais.
+
+### Automação com IA
+Revolucione o atendimento da sua empresa com automação inteligente no WhatsApp.
+
+- Chatbots Inteligentes com IA avançada
+- Integração com WhatsApp e Telegram
+- Atendimento 24/7 automatizado
+- Gerenciamento de pedidos e respostas automáticas
+
+### Segurança & Proteção
+Proteja seus dados e garanta a segurança digital do seu negócio.
+
+- Criptografia Avançada
+- Proteção de Dados
+- Compliance com a LGPD
+
+## Números que Comprovam Nossa Excelência
+
+- Mais de 4 Milhões de linhas de código desenvolvidas
+- Mais de 15 Empresas que confiam em nossos serviços
+- Mais de 2 Anos de excelência no mercado
+
+## Portfólio e Demonstrativos
+
+### Sites Desenvolvidos
+- [Enertrafo (Transformadores)](https://enertrafo.com.br/)
+- [Campinas Fighters (Academia de Esporte)](https://www.campinasfighters.com.br/)
+- [Convite de Casamento – Bruno e Ana](https://brunoeana.vercel.app/)
+- [Convite de Aniversário – Niver da Lalita](https://niver-da-lalita.vercel.app/)
+- [Convite de Aniversário – Birthday Clisa](https://birthdayclisa.vercel.app/)
+- [Loja de ROupas – Tati Murano](https://tatimurano.vercel.app/)
+
+### Demonstrações de Serviços
+- [Demo de Convite de Casamento](https://engide.com.br/demo/casamento)
+- [Demo de Site para Psicologia](https://engide.com.br/demo/psicologia)
+
+## Perguntas Frequentes (FAQ)
+
+### Qual é a média de preços da Engide?
+Os valores variam de R$500 a R$5.000, dependendo da complexidade do projeto e do uso de inteligência artificial.
+
+### Quero um site. Como faço?
+Entre em contato pelo WhatsApp para marcar uma reunião. Informe sua necessidade e receba um orçamento gratuito. Após a aprovação do design e funcionalidades, nossa equipe desenvolve e entrega o projeto dentro do prazo estipulado.
+
+### Quais formas de pagamento são aceitas?
+Aceitamos:
+- PIX (parcelado)
+- Cartão de Crédito (parcelado)
+- Transferência Bancária (parcelado)
+
+### Em quantas vezes posso parcelar?
+Você pode parcelar até 5x nos nossos meios de forma de pagamento
+
+### Como funciona o suporte?
+Oferecemos suporte 24 horas. Problemas complexos são resolvidos em até 20 minutos, e solicitações de alteração podem ser concluídas em até 1 dia útil, dependendo da complexidade.
+
+### Quais tipos de sites vocês já desenvolveram?
+Já desenvolvemos sites para diversos setores, incluindo indústria (transformadores), academias, eventos (casamento, aniversário) e e-commerce.
+
+## Contato
+
+- **WhatsApp:** [Clique aqui para falar conosco](https://wa.me/5519982212021?text=Estou%20interessado%20em%20conhecer%20mais%20sobre%20os%20servi%C3%A7os%20que%20a%20Engide%20oferece.%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20ou%20esclarecer%20algumas%20d%C3%BAvidas%20relacionadas%20ao%20meu%20neg%C3%B3cio.)
+- **E-mail:** engidetechnologyco@gmail.com
+- **Endereço para Demonstrações:**
+  - [Casamento](https://engide.com.br/demo/casamento)
+  - [Psicologia](https://engide.com.br/demo/psicologia)
