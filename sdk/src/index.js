@@ -17,13 +17,13 @@ function createWidgetHTML() {
     return `
         <button id="engide-open-btn" class="engide-btn" aria-label="Abrir chat">
             <span class="engide-btn-avatar-wrapper">
-                <img id="engide-icon" alt="Chatbot" src="./botData/avatar.png" />
+                <img id="engide-icon" alt="Chatbot" src="https://yagasaki7k.github.io/webai-engide/botData/avatar.png" />
                 <span class="engide-btn-badge">1</span>
             </span>
         </button>
         <div class="engide-chat-window" id="engide-chat-window" style="display:none">
             <div class="engide-chat-header">
-                <img src="./botData/avatar.png" alt="Bot logo" class="engide-chat-header-logo" id="engide-header-icon" />
+                <img src="https://yagasaki7k.github.io/webai-engide/botData/avatar.png" alt="Bot logo" class="engide-chat-header-logo" id="engide-header-icon" />
                 <span class="engide-chatbot-name" id="engide-chatbot-name"></span>
                 <button class="engide-close-btn" id="engide-close-btn">&times;</button>
             </div>
@@ -83,9 +83,9 @@ async function initChatbot() {
     const fromMainProject = (path) => new URL(path, root).toString();
 
     const [css, config, llmsTxt] = await Promise.all([
-        fetch(fromMainProject('./sdk/engide-chatbot.css')).then(r => r.text()),
-        fetch('./botData/chatbot-config.json').then(r => r.json()),
-        fetch('./llms.txt').then(r => r.text()),
+        fetch(fromMainProject('https://yagasaki7k.github.io/webai-engide/sdk/engide-chatbot.css')).then(r => r.text()),
+        fetch('https://yagasaki7k.github.io/webai-engide/botData/chatbot-config.json').then(r => r.json()),
+        fetch('https://yagasaki7k.github.io/webai-engide/llms.txt').then(r => r.text()),
     ]);
 
     const style = document.createElement('style');

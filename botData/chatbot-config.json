@@ -8,8 +8,8 @@
     "botBubble": "#0a0a0a",
     "userText": "#ffffff",
     "botText": "#ffffff",
-    "iconUrl": "./botData/avatar.png",
-    "botAvatar": "./botData/avatar.png",
+    "iconUrl": "https://yagasaki7k.github.io/webai-engide/botData/avatar.png",
+    "botAvatar": "https://yagasaki7k.github.io/webai-engide/botData/avatar.png",
     "welcomeBubble": "Olá! Como podemos ajudar sua empresa hoje?",
     "firstBotMessage": "Conte-nos sobre seu projeto. Será um prazer ajudar a transformar sua ideia em realidade.",
     "typingDelay": 0.5

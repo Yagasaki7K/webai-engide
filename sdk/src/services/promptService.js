@@ -25,7 +25,7 @@ ${systemPrompt}
 `;
 
             this.#session = await LanguageModel.create({
-                systemPrompt: `Você é um assistente da empresa Engide. Responda SOMENTE com base no contexto fornecido. Se a resposta não estiver no contexto, diga "Não tenho essa informação".`,
+                systemPrompt: `Você é um assistente da empresa Engide. Responda SOMENTE com base no contexto fornecido. Se a resposta não estiver no contexto, diga "Não tenho conhecimento sobre esse tipo de informação.".`,
                 expectedInputLanguages: ['pt'],
                 temperature: 0.1,
                 topK: 5,
